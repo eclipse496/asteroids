@@ -1,1 +1,3 @@
 # Asteroids in pygame 
+
+## Contributing
